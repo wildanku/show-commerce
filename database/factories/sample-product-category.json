@@ -1,0 +1,26 @@
+{
+  "title": "Vanilla Beans",
+  "slug": "vanilla-beans",
+  "description": "Premium quality vanilla beans sourced from the lush plantations of Indonesia. Perfect for culinary and aromatic uses.",
+  "image": "https://example.com/images/vanilla-beans.jpg",
+  "sections": [
+    {
+      "title": "Sample Section",
+      "subtitle": "This is a sample section subtitle.",
+      "items": [
+        {
+          "title": "Sample Item 1",
+          "description": "This is a description for sample item 1.",
+          "image": "https://example.com/images/sample-item-1.jpg"
+        },
+        {
+          "title": "Sample Item 2",
+          "description": "This is a description for sample item 2.",
+          "image": "https://example.com/images/sample-item-2.jpg"
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-06-15T10:00:00Z",
+  "updated_at": "2024-06-20T12:00:00Z"
+}

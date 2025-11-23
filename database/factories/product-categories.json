@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Vanilla Beans",
+    "slug": "vanilla-beans",
+    "image": "/images/products/ai/vanilla-beans.jpeg",
+    "description": "We offer Vanilla Beans with Premium quality (Grade A/ Grade B/ All Grade), Pure Vanilla Caviar, Vanilla Paste, Vanilla Extract, and Vanilla Powder. Our company has 2 varieties of Vanilla Beans which are Tahitensis Vanilla and Planifolia Vanilla.",
+    "metadata": [
+      {
+        "type": "section",
+        "title": "Vanilla Beans Varieties",
+        "subtitle": "Premium Indonesian Vanilla Products",
+        "items": [
+          {
+            "key": "Tahitensis",
+            "title": "Tahitensis Vanilla",
+            "description": "<ul><li><strong>Length:</strong> 13cm - 17cm</li><li><strong>Weight:</strong> 2gr - 5gr/ bean</li><li><strong>Moisture:</strong> 25% - 35%</li><li><strong>Vanillin Content:</strong> 1.2% - 1.5%</li><li><strong>No split and No mold</strong></li><li><strong>Gourmet!</strong></li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          },
+          {
+            "key": "Planifolia",
+            "title": "Planifolia Vanilla",
+            "description": "<ul><li><strong>Length:</strong> 14cm - 22cm</li><li><strong>Weight:</strong> 3gr - 6gr/ bean</li><li><strong>Moisture:</strong> 25% - 35%</li><li><strong>Vanillin Content:</strong> 1.5% - 2%</li><li><strong>No split and No mold</strong></li><li><strong>Gourmet!</strong></li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Vanilla Products",
+        "subtitle": "Pure Vanilla Derivatives",
+        "items": [
+          {
+            "key": "PureVanillaCaviar",
+            "title": "Pure Vanilla Caviar",
+            "description": "<ul><li><strong>Pure 100%</strong> scraped from Vanilla Beans Planifolia</li><li><strong>Moisture:</strong> 20% - 23%</li><li><strong>Content:</strong> 100% Vanilla Caviar</li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          },
+          {
+            "key": "PureVanillaPasta",
+            "title": "Pure Vanilla Pasta",
+            "description": "<ul><li><strong>Composition:</strong> Vanilla Powder + Vanilla Caviar 50%</li><li><strong>Geleserit Food Grade:</strong> 30%</li><li><strong>Water:</strong> 20%</li><li><strong>Moisture:</strong> 25% - 35%</li><li><strong>Content:</strong> 100% Vanilla Caviar</li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          },
+          {
+            "key": "PureVanillaExtract",
+            "title": "Pure Vanilla Extract",
+            "description": "<ul><li><strong>Base:</strong> Vanilla Beans Grade A</li><li><strong>Geleserit Food Grade:</strong> 30%</li><li><strong>Water:</strong> 70%</li><li><strong>Moisture:</strong> 25% - 35%</li><li><strong>Content:</strong> 100% Vanilla Caviar</li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          },
+          {
+            "key": "PureVanillaPowder",
+            "title": "Pure Vanilla Powder",
+            "description": "<ul><li><strong>Type:</strong> Organic Vanilla Beans dried</li><li><strong>Composition:</strong> 100% Vanilla Beans</li><li><strong>Moisture:</strong> 7% - 12%</li></ul>",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=400"
+          }
+        ]
+      },
+      {
+        "type": "flow",
+        "title": "Vanilla Beans Process",
+        "items": [
+          {
+            "step": 1,
+            "title": "Maturity of Green Vanilla",
+            "description": "Vanilla beans reach maturity nine months after pollination"
+          },
+          {
+            "step": 2,
+            "title": "Scalding Process",
+            "description": "Scalding is to soak the green pods in heated water at 70 °C for 40 to 50 seconds"
+          },
+          {
+            "step": 3,
+            "title": "Steaming Process",
+            "description": "Cover the freshly heated pods with a blanket and place them in a wooden box for 24 to 48 hours"
+          },
+          {
+            "step": 4,
+            "title": "Sun Drying Process",
+            "description": "This process can last up to a month, depending on the weather conditions"
+          },
+          {
+            "step": 5,
+            "title": "Shade Drying Process",
+            "description": "Vanilla beans are dried in the shade gradually over 15 to 30 days"
+          },
+          {
+            "step": 6,
+            "title": "Wood box storing",
+            "description": "For at least one month, to stabilize the color and increase the taste and vanilla content"
+          },
+          {
+            "step": 7,
+            "title": "Sorting & Packaging",
+            "description": "Classify each vanilla bean according to its quality, then pack it in a vacuum"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "title": "Product Gallery",
+        "items": [
+          {
+            "title": "Fresh Vanilla Beans",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=500"
+          },
+          {
+            "title": "Vanilla Storage",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=500"
+          },
+          {
+            "title": "Vanilla Products",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=500"
+          },
+          {
+            "title": "Vanilla Extract",
+            "image": "https://images.unsplash.com/photo-1611073495794-a4d513c43e83?w=500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Spices",
+    "slug": "indonesian-spices",
+    "image": "/images/products/ai/indonesian-spices.jpeg",
+    "description": "The Indonesian spices that we offer are premium quality spices so that we can provide the best products to our partners or clients, including Turmeric, Cinnamon, Cloves, Red Ginger & Ginger, Cardamom, Black and White Pepper, Hazelnuts, and Nutmeg.",
+    "metadata": [
+      {
+        "type": "section",
+        "title": "Premium Indonesian Spices",
+        "subtitle": "High-Quality Spices Collection",
+        "items": [
+          {
+            "key": "Turmeric",
+            "title": "Turmeric",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Type:</strong> Fresh Type</li></ul>",
+            "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=400"
+          },
+          {
+            "key": "Cinnamon",
+            "title": "Cinnamon",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 13.5% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1589563065298-5a019d6e2e5e?w=400"
+          },
+          {
+            "key": "Cloves",
+            "title": "Cloves",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 6% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=400"
+          },
+          {
+            "key": "RedGinger",
+            "title": "Red Ginger & Ginger",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 13.5% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=400"
+          },
+          {
+            "key": "Cardamom",
+            "title": "Cardamom",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 12% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1599785209758-c8f27a5e39c5?w=400"
+          },
+          {
+            "key": "BlackWhitePepper",
+            "title": "Black and White Pepper",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 6% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1599909533730-f9d49c0c9b81?w=400"
+          },
+          {
+            "key": "Hazelnuts",
+            "title": "Hazelnuts",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 6% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1585329624019-b7ca13f67b4c?w=400"
+          },
+          {
+            "key": "Nutmeg",
+            "title": "Nutmeg",
+            "description": "<ul><li><strong>Grade:</strong> Grade A</li><li><strong>Moisture:</strong> 14% max</li></ul>",
+            "image": "https://images.unsplash.com/photo-1599785209758-c8f27a5e39c5?w=400"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "title": "Indonesian Spices Gallery",
+        "items": [
+          {
+            "title": "Turmeric",
+            "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=500"
+          },
+          {
+            "title": "White Pepper",
+            "image": "https://images.unsplash.com/photo-1599909533730-f9d49c0c9b81?w=500"
+          },
+          {
+            "title": "Cloves",
+            "image": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=500"
+          },
+          {
+            "title": "Black Pepper",
+            "image": "https://images.unsplash.com/photo-1599909533730-f9d49c0c9b81?w=500"
+          },
+          {
+            "title": "Cinnamon Sticks",
+            "image": "https://images.unsplash.com/photo-1589563065298-5a019d6e2e5e?w=500"
+          },
+          {
+            "title": "Ginger",
+            "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=500"
+          },
+          {
+            "title": "Cardamom Seeds",
+            "image": "https://images.unsplash.com/photo-1599785209758-c8f27a5e39c5?w=500"
+          },
+          {
+            "title": "Nutmeg",
+            "image": "https://images.unsplash.com/photo-1599785209758-c8f27a5e39c5?w=500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Coffee Green Bean",
+    "slug": "indonesian-coffee-green-bean",
+    "image": "/images/products/ai/coffee-green-bean.jpeg",
+    "description": "Indonesia is one of the world's top producers of high-quality green bean coffee (unroasted coffee beans), known for its unique flavors and diverse processing methods. The country's tropical climate, fertile volcanic soil, and traditional farming techniques contribute to the distinct characteristics of Indonesian coffee.",
+    "metadata": [
+      {
+        "type": "section",
+        "title": "Caffeined Coffee Green Bean",
+        "subtitle": "Caffeined Green Bean Specification",
+        "items": [
+          {
+            "key": "CaffeinedSpec",
+            "title": "Caffeined Coffee Green Bean Specification",
+            "description": "<ul><li><strong>Quality:</strong> Premium Quality</li><li><strong>Moisture:</strong> 12.5%</li><li><strong>Caffeine Arabica:</strong> 1.5%</li><li><strong>Caffeine Robusta:</strong> 2.7%</li><li><strong>Size Arabica G1:</strong> 16 inch - 18 inch</li><li><strong>Size Robusta G1:</strong> 14 inch - 16 inch</li><li><strong>Defect maximum:</strong> 11%</li><li><strong>Process:</strong> Full Washed</li></ul>",
+            "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=400"
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "title": "Decaffeined Coffee Green Bean",
+        "subtitle": "Decaffeinated Green Bean Specification",
+        "items": [
+          {
+            "key": "DecaffeinedSpec",
+            "title": "Decaffeined Coffee Green Bean Specification",
+            "description": "<ul><li><strong>Decaffeinated Methods:</strong> Swiss Water (chemical-free), CO2, or Ethyl Acetate (natural)</li><li><strong>Caffeine Green Beans Methods:</strong> Full Washed</li><li><strong>Origins:</strong> Indonesia</li><li><strong>Certifications:</strong> Phytosanitary Certificate, Halal Certificate and Origin Certificate</li></ul>",
+            "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=400"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "title": "Green Coffee Beans Gallery",
+        "items": [
+          {
+            "title": "Green Coffee Beans - Arabica",
+            "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500"
+          },
+          {
+            "title": "Green Coffee Beans - Fresh",
+            "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500"
+          },
+          {
+            "title": "Green Coffee Beans - Robusta",
+            "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500"
+          },
+          {
+            "title": "Green Coffee Beans - Close Up",
+            "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Wood Pellet",
+    "slug": "indonesian-wood-pellet",
+    "image": "/images/products/ai/indonesian-wood-pellet.jpeg",
+    "description": "Indonesian wood pellets are a high-quality, renewable biomass fuel made from compressed sawdust and wood waste. They are an eco-friendly alternative to fossil fuels, widely used for heating, industrial energy, and power generation. Indonesia is a leading global exporter due to its abundant sustainable raw materials and competitive pricing.",
+    "metadata": [
+      {
+        "type": "section",
+        "title": "Wood Pellet Grades",
+        "subtitle": "Three Premium Grade Classifications",
+        "items": [
+          {
+            "key": "Grade1",
+            "title": "Wood Pellet I1 (Premium/Highest Grade)",
+            "description": "<ul><li><strong>Raw material:</strong> Pure wood (100% hardwood/mixed hardwood, without bark or contaminates)</li><li><strong>Moisture content:</strong> ≤ 10%</li><li><strong>Calorific value:</strong> 4.7 - 5.0 kWh/kg (16,800 - 18,000 kJ/kg)</li><li><strong>Ash content:</strong> ≤ 0.7%</li><li><strong>Density:</strong> ↦ 1.12 - 1.3 kg/dm³</li><li><strong>Diameter:</strong> 6 mm or 8 mm (standard)</li><li><strong>Sulfur content:</strong> ≤ 0.04%</li><li><strong>Durability:</strong> ↦ 97.5% (minimum breakage/powder)</li></ul>",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=400"
+          },
+          {
+            "key": "Grade2",
+            "title": "Wood Pellet I2 (Standard/Middle Class)",
+            "description": "<ul><li><strong>Raw material:</strong> Wood with minimal bark or allowed wood residue</li><li><strong>Moisture content:</strong> ≤ 10%</li><li><strong>Calorific value:</strong> 4.5 - 4.7 kWh/kg (16,200 - 17,000 kJ/kg)</li><li><strong>Ash:</strong> ≤ 1.5%</li><li><strong>Density:</strong> ↦ 1.0 kg/dm³</li><li><strong>Diameter:</strong> 6 mm or 8 mm</li><li><strong>Sulfur content:</strong> ≤ 0.05%</li><li><strong>Durability:</strong> ↦ 96%</li></ul>",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=400"
+          },
+          {
+            "key": "Grade3",
+            "title": "Wood Pellet I3 (Industrial/Low Grade)",
+            "description": "<ul><li><strong>Raw material:</strong> Mixture of wood, wood waste, or other biomass materials (including bark)</li><li><strong>Moisture content:</strong> ≤ 12%</li><li><strong>Calorific value:</strong> 4.3 - 4.5 kWh/kg (15,500 - 16,200 kJ/kg)</li><li><strong>Ash:</strong> ≤ 3% (can be higher depending on the application)</li><li><strong>Density:</strong> ↦ 0.6 - 1.0 kg/dm³</li><li><strong>Diameter:</strong> Variable (6-10 mm)</li><li><strong>Sulfur:</strong> ≤ 0.1%</li><li><strong>Durability:</strong> ↦ 95%</li></ul>",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=400"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "title": "Wood Pellets Gallery",
+        "items": [
+          {
+            "title": "Wood Pellets - Premium Grade",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=500"
+          },
+          {
+            "title": "Wood Pellets - Standard Grade",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=500"
+          },
+          {
+            "title": "Wood Pellets - Industrial Grade",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=500"
+          },
+          {
+            "title": "Wood Pellets - Close Up",
+            "image": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?w=500"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Coconut Products",
+    "slug": "indonesian-coconut-products",
+    "image": "/images/products/ai/indonesian-coconut-product.jpeg",
+    "description": "Indonesia is one of the world's leading producers of coconut and its derivatives. SpicesIDN C.V. proudly exports high-quality coconut products derived from sustainably sourced coconuts, processed with international standards to meet global market demand.",
+    "metadata": [
+      {
+        "type": "section",
+        "title": "Premium Coconut Products",
+        "subtitle": "Seven Premium Coconut Derivatives",
+        "items": [
+          {
+            "key": "FreshMatureCoconut",
+            "title": "Fresh Mature Coconut",
+            "description": "<ul><li><strong>Description:</strong> Naturally grown mature coconuts harvested at peak ripeness. Ideal for coconut water, oil, milk, or culinary use</li><li><strong>Size:</strong> 1.2 - 1.5 kg</li><li><strong>Husked or semi-husked</strong></li><li><strong>Moisture:</strong> ~13%</li><li><strong>Packaging:</strong> Mesh bag or carton box</li><li><strong>Shelf Life:</strong> 30-45 days</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          },
+          {
+            "key": "DesiccatedCoconut",
+            "title": "Desiccated Coconut",
+            "description": "<ul><li><strong>Description:</strong> Finely grated, dried, and unsweetened white coconut meat. Used in bakery, confectionery, and food processing industries</li><li><strong>Grades:</strong> Fine or Medium</li><li><strong>Fat content:</strong> High Fat 60-70% or Low Fat 10-12%</li><li><strong>Moisture:</strong> &lt;3%</li><li><strong>Sulfur-free</strong></li><li><strong>Packaging:</strong> 25 kg PP bags</li><li><strong>Shelf Life:</strong> 12 months</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          },
+          {
+            "key": "VirginCoconutOil",
+            "title": "Virgin Coconut Oil",
+            "description": "<ul><li><strong>Description:</strong> Cold-pressed and 100% pure oil extracted from fresh coconut meat. Rich in antioxidants and lauric acid</li><li><strong>Color:</strong> Clear to light yellow</li><li><strong>FFA:</strong> &lt;0.1%</li><li><strong>Moisture:</strong> &lt;0.1%</li><li><strong>Odor:</strong> Mild fresh coconut aroma</li><li><strong>Packaging:</strong> 250 ml - 1 L bottles / 18L pail / 190 kg drum</li><li><strong>Shelf Life:</strong> 24 months</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          },
+          {
+            "key": "CoconutMilkCream",
+            "title": "Coconut Milk & Cream",
+            "description": "<ul><li><strong>Description:</strong> Made by pressing grated coconut meat, used in cooking, baking, and beverages</li><li><strong>Fat content:</strong> 17% - 24%</li><li><strong>Additives:</strong> None / With stabilizers (as requested)</li><li><strong>Packaging:</strong> 400 ml / 1L can or pouch</li><li><strong>Shelf Life:</strong> 18-24 months</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          },
+          {
+            "key": "CoconutShellCharcoal",
+            "title": "Coconut Shell Charcoal",
+            "description": "<ul><li><strong>Description:</strong> Made from clean and dried coconut shells. Used in BBQ, shisha, and activated carbon industries</li><li><strong>Fixed carbon:</strong> &gt;75%</li><li><strong>Ash content:</strong> &lt;4%</li><li><strong>Moisture:</strong> &lt;10%</li><li><strong>Size:</strong> Customizable</li><li><strong>Packaging:</strong> 20 kg PP bags or bulk</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          },
+          {
+            "key": "CocopeelCoirFiber",
+            "title": "Cocopeat & Coir Fiber",
+            "description": "<ul><li><strong>Cocopeat Specifications:</strong> Byproducts of coconut husks, used in agriculture and manufacturing. Moisture &lt;20%, Compression 5 kg blocks, EC &lt;0.5 mS/cm (washed)</li><li><strong>Coir Fiber Specifications:</strong> Length 5-25 cm, Impurities &lt;5%, Bale weight 90-120 kg, Use Soil conditioner, hydroponics, brushes, ropes, mats</li></ul>",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=400"
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "title": "Coconut Products Gallery",
+        "items": [
+          {
+            "title": "Fresh Mature Coconut",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=500"
+          },
+          {
+            "title": "Desiccated Coconut",
+            "image": "https://images.unsplash.com/photo-1599599810694-2cfe47c76a6f?w=500"
+          },
+          {
+            "title": "Virgin Coconut Oil",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=500"
+          },
+          {
+            "title": "Coconut Milk",
+            "image": "https://images.unsplash.com/photo-1599599810694-2cfe47c76a6f?w=500"
+          },
+          {
+            "title": "Coconut Shell Charcoal",
+            "image": "https://images.unsplash.com/photo-1576394508894-2665a5b57364?w=500"
+          },
+          {
+            "title": "Coir Fiber",
+            "image": "https://images.unsplash.com/photo-1599599810694-2cfe47c76a6f?w=500"
+          }
+        ]
+      }
+    ]
+  }
+]

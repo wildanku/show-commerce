@@ -1,0 +1,201 @@
+[
+  {
+    "name": "hero-section",
+    "title": "Hero Section",
+    "template": "hero-section",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "title": "Premium Indonesian Spices & Vanilla Beans Exporter",
+      "subtitle": "Quality Products, Reliable Service",
+      "cta": [
+        {
+          "label": "Our Products",
+          "type": "primary",
+          "url": "/products"
+        },
+        {
+          "label": "Contact Us",
+          "type": "outline",
+          "url": "/contact-us"
+        }
+      ]
+    }
+  },
+  {
+    "name": "about-us",
+    "title": "About Us",
+    "template": "about-us",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "title": "About Us",
+      "subtitle": "Leading Exporter of Premium Indonesian Products",
+      "description": "<p><strong>Spicesdn C.V. was officially established in December 2019.</strong> Our company is engaged in the export of Vanilla Beans and Indonesian Spices Distributors. Even though it is relatively new, we have professional and experienced human resources in their fields as well as good company management, so we are confident that we can provide the best service. Glimpse the best product quality to ensure our clients' satisfaction.</p><p>We are here to help and support companies/individuals in the field of differentiating Vanilla Beans and Indonesian spices. With our work experience and competence, of course, we will always try to maintain product quality and provide the best service to business partners and maintain the trust that has been given.</p><p>With the times and increasingly fierce competition, we will continue to innovate to provide the best solutions for all the needs of our business partners. With the support of all of the above, then we are very sure, <strong>SPICESIDN C.V. will develop into a reliable and successful company.</strong></p>",
+      "cta": [
+        {
+          "label": "Learn More",
+          "type": "primary",
+          "url": "/about-us"
+        },
+        {
+          "label": "Contact Us",
+          "type": "outline",
+          "url": "/contact-us"
+        }
+      ]
+    }
+  },
+  {
+    "name": "vision-mission",
+    "title": "Vision & Mission",
+    "template": "vision-mission",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "subtitle": "SPICESIDN C.V.",
+      "vision": {
+        "icon": "💎",
+        "title": "Company Vision",
+        "description": "To be a company that is trusted, independent, with international competitiveness, and the ability to meet client satisfaction with quality products and services."
+      },
+      "missions": [
+        {
+          "icon": "💎",
+          "title": "Company Mission",
+          "description": "Providing the best service and maintaining the trust of business partners."
+        },
+        {
+          "description": "Making clients and business partners a top priority by providing quality goods or services."
+        },
+        {
+          "description": "Build a business that has a competitive advantage and is competent."
+        },
+        {
+          "description": "Maintain a code of ethics in every company business process."
+        }
+      ]
+    }
+  },
+  {
+    "name": "why-choose-us",
+    "title": "Why Choose Us",
+    "template": "why-choose-us",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "subtitle": "SPICESIDN C.V.",
+      "reasons": [
+        {
+          "icon": "✓",
+          "title": "Professionalism & Integrity",
+          "description": "Upholding professionalism and integrity in every business process."
+        },
+        {
+          "icon": "✓",
+          "title": "Maximum Product Quality",
+          "description": "Oriented to maximum product quality."
+        },
+        {
+          "icon": "✓",
+          "title": "Competent Team",
+          "description": "Supported by human resources who are competent in their fields."
+        },
+        {
+          "icon": "✓",
+          "title": "Partner Satisfaction",
+          "description": "Make business partner satisfaction a top priority."
+        },
+        {
+          "icon": "✓",
+          "title": "Flexible Payment Options",
+          "description": "Many payment method options (LC, TT, CC, Paypal, etc.)"
+        }
+      ]
+    }
+  },
+  {
+    "name": "legal-documents",
+    "title": "The legality of the company",
+    "template": "legal-documents",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "subtitle": "SPICESIDN C.V.",
+      "documents": [
+        {
+          "label": "Deed of Incorporation",
+          "value": "RA notary. Chandra Dewi Kusumawati. SH Number 23 Dated December 17, 2020"
+        },
+        {
+          "label": "Ministry of Justice and Human Rights Decree",
+          "value": "No. AHU-0071087.AH.01.14.Tahun 2020"
+        },
+        {
+          "label": "Certification of registration",
+          "value": "No. S-16876KT / WPJ.23 / KP.0103 / 2020"
+        },
+        {
+          "label": "Taxpayer Identification Number (NPWP)",
+          "value": "No. 96,929,885.0-542,000"
+        },
+        {
+          "label": "Business Identification Number (NIB)",
+          "value": "No. 0215010222923"
+        },
+        {
+          "label": "No. Trading Business License (SIUP)",
+          "date": "December 22, 2020",
+          "value": "202012-2212-5843-9966-931"
+        },
+        {
+          "label": "Location permission",
+          "value": "JI Ngadirejo, RT 04 / Rw 06, Dusun Kencuran, Desa Sukoharjo, Kec. Ngaglik, Kab, Sleman Yogyakarta. Indonesia"
+        },
+        {
+          "label": "Location Office",
+          "value": "TREVISTA HILLS KEBAYORAN, JAKARTA INDONESIA"
+        }
+      ]
+    }
+  },
+  {
+    "name": "contact-us",
+    "title": "Contact Us",
+    "template": "contact-us",
+    "content": {
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "title": "Get in Touch",
+      "subtitle": "We'd love to hear from you. Reach out to us for any inquiries or assistance.",
+      "address": {
+        "label": "Office Address",
+        "value": "TREVISTA HILLS KEBAYORAN, JAKARTA INDONESIA"
+      },
+      "phone": [
+        {
+          "value": "+62 82338386226",
+          "wa": "https://wa.me/6282338386226"
+        },
+        {
+          "value": "+62 82243533405",
+          "wa": "https://wa.me/6282243533405"
+        }
+      ],
+      "email": {
+        "label": "Email",
+        "value": "info@spicesidn.com"
+      }
+    }
+  },
+  {
+    "name": "bank-information",
+    "title": "Bank Information",
+    "template": "bank-information",
+    "content": {
+      "subtitle": "SPICESIDN C.V.",
+      "bankDetails": {
+        "accountNumber": "8610877703",
+        "bankName": "Bank Central Asia (BCA)",
+        "accountName": "SPICESIDN CV",
+        "swiftCode": "CENAIDJA",
+        "bankAddress": "KCP Kaliurang Yogyakarta, Indonesia",
+        "branchCode": "014"
+      }
+    }
+  }
+]

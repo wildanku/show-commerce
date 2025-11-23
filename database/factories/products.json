@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Wood Pellet",
+    "preview_image": "/images/products/ai/indonesian-wood-pellet.jpeg",
+    "sku": "WP-001",
+    "slug": "wood-pellet",
+    "description": "High-density wood pellets made from natural sawdust, ideal for eco-friendly biomass energy with high calorific value and low moisture.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Wood Pellet",
+      "specifications": {
+        "diameter": "6-8 mm",
+        "density": "≤ 1.12 kg/dm³",
+        "ashContent": "≤ 1.5%",
+        "calorifieValue": "4,800–5,000 kcal/kg",
+        "packaging": "15–20 kg plastic bag or bulk",
+        "usage": "Boiler, Industrial heating"
+      },
+      "description": "High-density wood pellets made from natural sawdust, ideal for eco-friendly biomass energy with high calorific value and low moisture."
+    }
+  },
+  {
+    "name": "Green Coffee",
+    "preview_image": "/images/products/ai/coffee-green-bean.jpeg",
+    "sku": "GC-001",
+    "slug": "green-coffee",
+    "description": "Unroasted green coffee beans selected from highland plantations in Indonesia. Distinctive flavor profiles for premium coffee production.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Coffee Green Bean",
+      "specifications": {
+        "type": "Arabica / Robusta",
+        "origin": "Sumatra, Java, Sulawesi",
+        "size": "15-18",
+        "defects": "Grade 1-2",
+        "packaging": "60 kg jute bags",
+        "shelfLife": "12 months"
+      },
+      "description": "Unroasted green coffee beans selected from highland plantations in Indonesia. Distinctive flavor profiles for premium coffee production."
+    }
+  },
+  {
+    "name": "Tamarind",
+    "preview_image": "/images/products/ai/tamarind.png",
+    "sku": "TM-001",
+    "slug": "tamarind",
+    "description": "Premium tamarind pulp with rich sour-sweet flavor. Ideal for sauces, beverages, herbal remedies, and food seasoning.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "form": "Seedless (peeled pulp)",
+        "color": "Dark brown",
+        "moisture": "≤ 18%",
+        "purity": "100% Natural",
+        "packaging": "1 kg / 5 kg packs or 7 kg blocks",
+        "shelfLife": "12–15 months"
+      },
+      "description": "Premium tamarind pulp with rich sour-sweet flavor. Ideal for sauces, beverages, herbal remedies, and food seasoning."
+    }
+  },
+  {
+    "name": "Cloves",
+    "preview_image":"/images/products/ai/cloves.jpg",
+    "sku": "CL-001",
+    "slug": "cloves",
+    "description": "Premium cloves from Indonesia with high oil content and strong flavor. Used widely in culinary, health, and cosmetic industries.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "form": "Whole / Ground",
+        "moisture": "≤ 12%",
+        "volatileOil": "≥ 15%",
+        "packaging": "10–25 kg burlap or jute bags",
+        "shelfLife": "24 months"
+      },
+      "description": "Premium cloves from Indonesia with high oil content and strong flavor. Used widely in culinary, health, and cosmetic industries."
+    }
+  },
+  {
+    "name": "Nutmeg",
+    "preview_image": "/images/products/ai/nutmeg.png",
+    "sku": "NM-001",
+    "slug": "nutmeg",
+    "description": "High-quality nutmeg from the Spice Islands, prized for its intense aroma and warm, sweet flavor. Ideal for food, baking, and essential oil industries.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "origin": "Banda (Maluku)",
+        "form": "Whole / Ground",
+        "moisture": "≤ 10%",
+        "volatileOil": "≥ 8%",
+        "packaging": "10–25 kg PP or jute bag",
+        "shelfLife": "18–24 months"
+      },
+      "description": "High-quality nutmeg from the Spice Islands, prized for its intense aroma and warm, sweet flavor. Ideal for food, baking, and essential oil industries."
+    }
+  },
+  {
+    "name": "Hazelnut",
+    "preview_image": "/images/products/ai/hazelnut.png",
+    "sku": "HZ-001",
+    "slug": "hazelnut",
+    "description": "Premium hazelnuts with a rich, buttery flavor and crunchy texture. Perfect for confectioneries, bakery, and health food products.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "origin": "Indonesia",
+        "size": "12-14 mm (avg.)",
+        "moisture": "≤ 7%",
+        "shelling": "Available whole or shelled",
+        "packaging": "10–25 kg vacuum or jute bags",
+        "shelfLife": "12 months"
+      },
+      "description": "Premium hazelnuts with a rich, buttery flavor and crunchy texture. Perfect for confectioneries, bakery, and health food products."
+    }
+  },
+  {
+    "name": "Black Pepper",
+    "preview_image": "/images/products/ai/black-papper.jpeg",
+    "sku": "BP-001",
+    "slug": "black-pepper",
+    "description": "Premium-quality black pepper sourced from Indonesian farms. Naturally sun-dried for a bold aroma and sharp, spicy flavor. Ideal for food processing and culinary use.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "form": "Whole / Ground",
+        "moisture": "≤ 12%",
+        "volatileOil": "≥ 2.8%",
+        "purity": "≥ 99%",
+        "packaging": "10–25 kg bags or customized",
+        "shelfLife": "24 months"
+      },
+      "description": "Premium-quality black pepper sourced from Indonesian farms. Naturally sun-dried for a bold aroma and sharp, spicy flavor. Ideal for food processing and culinary use."
+    }
+  },
+  {
+    "name": "Coconut",
+    "preview_image": "/images/products/ai/indonesian-coconut-product.png",
+    "sku": "CC-001",
+    "slug": "coconut",
+    "description": "Premium coconut product collection is made from high-quality mature coconuts. Includes whole coconut, desiccated coconut, pure coconut milk, virgin coconut oil (VCO), and coconut flour perfect for culinary, cosmetic, and health industries.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Coconut Products",
+      "specifications": {
+        "form": "Whole Coconut, Naturally dried, with hard shell",
+        "desiccatedCoconut": "100% Coconut, Pasteurized, Preservatives-free",
+        "virginCoconutOil": "100% pure, cold-pressed, dried organic",
+        "coconutMilk": "100% pure preservatives-free",
+        "packaging": "Various, high in fiber"
+      },
+      "description": "Premium coconut product collection is made from high-quality mature coconuts. Includes whole coconut, desiccated coconut, pure coconut milk, virgin coconut oil (VCO), and coconut flour perfect for culinary, cosmetic, and health industries."
+    }
+  },
+  {
+    "name": "Cinnamon",
+    "preview_image": "/images/products/ai/cinnamon.jpeg",
+    "sku": "CN-001",
+    "slug": "cinnamon",
+    "description": "Our premium Indonesian cinnamon is carefully selected for its strong aroma, warm sweet flavor, and rich essential oil content. Suitable for culinary, beverage, and health applications.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "type": "Cassia Cinnamon",
+        "form": "Available in sticks, powder, or ground",
+        "color": "Reddish-brown",
+        "moisture": "Max 12%",
+        "oilContent": "Max 2%",
+        "packaging": "10–25 kg bags or customized",
+        "shelfLife": "24 months"
+      },
+      "description": "Our premium Indonesian cinnamon is carefully selected for its strong aroma, warm sweet flavor, and rich essential oil content. Suitable for culinary, beverage, and health applications."
+    }
+  },
+  {
+    "name": "Frankincense",
+    "preview_image": "/images/products/ai/Frankincense.png",
+    "sku": "FR-001",
+    "slug": "frankincense",
+    "description": "Natural frankincense resin sourced from Boswellia trees. Known for its fragrant smoke and use in perfumery, aromatherapy, and incense.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "grade": "Grade 1 (clean & aromatic)",
+        "form": "Pale yellow to amber",
+        "purity": "100% Natural",
+        "packaging": "10–25 kg bags",
+        "usage": "Incense, essential oils, cosmetics",
+        "shelfLife": "24 months"
+      },
+      "description": "Natural frankincense resin sourced from Boswellia trees. Known for its fragrant smoke and use in perfumery, aromatherapy, and incense."
+    }
+  },
+  {
+    "name": "Ginger",
+    "preview_image": "/images/products/ai/ginger.png",
+    "sku": "GN-001",
+    "slug": "ginger",
+    "description": "Sun-dried Indonesian ginger with strong aroma and spicy bite. Perfect for culinary, herbal, and pharmaceutical applications.",
+    "price": null,
+    "metadata": {
+      "category": "Indonesian Spices",
+      "specifications": {
+        "form": "Powder / Whole",
+        "moisture": "≤ 11%",
+        "purity": "100% Natural",
+        "packaging": "20–25 kg PP bags",
+        "shelfLife": "12–18 months"
+      },
+      "description": "Sun-dried Indonesian ginger with strong aroma and spicy bite. Perfect for culinary, herbal, and pharmaceutical applications."
+    }
+  },
+  {
+    "name": "Vanilla Beans Planifolia",
+    "preview_image": "/images/products/ai/vanilla-beans-planifolia.png",
+    "sku": "VB-PL-001",
+    "slug": "vanilla-beans-planifolia",
+    "description": "Premium Vanilla Beans Planifolia with exceptional length and moisture content. Perfect for high-end culinary and professional applications requiring superior vanilla quality.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "length": "14cm - 22cm",
+        "moisture": "20% - 30%",
+        "vanillinContent": "1.5% - 2%",
+        "packaging": "Vacuum",
+        "quality": "No split and no mold",
+        "gradeType": "Gourmet"
+      },
+      "description": "Premium Vanilla Beans Planifolia sourced for optimal flavor and aroma. Characterized by its superior length and vanilla content, ideal for premium vanilla products and high-end culinary uses."
+    }
+  },
+  {
+    "name": "Vanilla Beans Tahitensis",
+    "sku": "VB-TH-001",
+    "slug": "vanilla-beans-tahitensis",
+    "description": "Exquisite Vanilla Beans Tahitensis with distinctive floral notes and balanced moisture. A premium choice for gourmet applications.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "length": "13cm - 17cm",
+        "moisture": "20% - 30%",
+        "vanillinContent": "1.2% - 1.5%",
+        "packaging": "Vacuum",
+        "quality": "No split and no mold",
+        "gradeType": "Gourmet"
+      },
+      "description": "Premium Vanilla Beans Tahitensis known for its unique floral and cherry-like aroma. With balanced moisture and vanillin content, it's perfect for specialty vanilla products and gourmet culinary creations."
+    }
+  },
+  {
+    "name": "Vanilla Powder",
+    "sku": "VP-001",
+    "slug": "vanilla-powder",
+    "description": "Organic vanilla powder made from dried vanilla beans. Perfect for baking, beverages, and food processing with optimal moisture and vanillin content.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "form": "Organic Vanilla Beans dried",
+        "moisture": "7% - 12%",
+        "vanillinContent": "1.2% - 1.5%"
+      },
+      "description": "Pure organic vanilla powder produced from premium dried vanilla beans. With carefully controlled moisture levels and high vanillin concentration, it's ideal for baking, pastry making, beverages, and industrial food applications."
+    }
+  },
+  {
+    "name": "Vanilla Caviar",
+    "sku": "VC-001",
+    "slug": "vanilla-caviar",
+    "description": "Pure 100% vanilla seeds extracted from premium vanilla beans. Luxury ingredient for premium desserts, pastries, and gourmet culinary creations.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "form": "Pure 100% Vanilla Seeds",
+        "packaging": "Plastic Cup foodgrade",
+        "moisture": "30%",
+        "purity": "100% Vanilla Seeds"
+      },
+      "description": "Luxurious vanilla caviar consisting of pure vanilla seeds extracted from premium vanilla beans. Packaged in food-grade plastic cups, these tiny black seeds are perfect for garnishing and flavoring premium desserts, pastries, and gourmet dishes."
+    }
+  },
+  {
+    "name": "Vanilla Paste",
+    "sku": "VPA-001",
+    "slug": "vanilla-paste",
+    "description": "Smooth vanilla paste blend combining vanilla powder with glycerin and water. Convenient for baking, beverages, and professional culinary applications.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "form": "Vanilla Powder | Glycerin and Water",
+        "packaging": "Plastic Cup foodgrade"
+      },
+      "description": "Smooth and convenient vanilla paste made by blending vanilla powder with glycerin and water. Perfect for baking, pastry decoration, beverages, and professional culinary applications. The paste consistency makes it easy to measure and distribute evenly."
+    }
+  },
+  {
+    "name": "Vanilla Extract",
+    "sku": "VE-001",
+    "slug": "vanilla-extract",
+    "description": "Premium vanilla extract with pure vanilla bean and vanilla seeds in glycerin and water base. Ideal for baking, beverages, and flavor enhancement.",
+    "price": null,
+    "metadata": {
+      "category": "Vanilla Beans",
+      "specifications": {
+        "form": "Vanilla Bean | Vanilla Seeds | Glycerin and Water",
+        "packaging": "Plastic Bottle foodgrade"
+      },
+      "description": "Premium vanilla extract crafted from whole vanilla beans and vanilla seeds, infused in a glycerin and water base. This liquid extract delivers concentrated vanilla flavor, perfect for baking, beverages, ice cream, and various culinary applications requiring deep vanilla essence."
+    }
+  }
+]
