@@ -1,1 +1,0 @@
-import{j as t}from"./app-DND2NXpb.js";import{L as e}from"./Layout-vJiG63uf.js";function m({auth:o}){return t.jsx(e,{title:"Welcome",children:t.jsx("span",{children:"It's Work men!s"})})}export{m as default};

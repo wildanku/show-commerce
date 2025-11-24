@@ -1,0 +1,1 @@
+import{j as t}from"./app-CIOojl5I.js";import{L as e}from"./Layout-Bfn9Km0k.js";function m({auth:o}){return t.jsx(e,{title:"Welcome",children:t.jsx("span",{children:"It's Work men!s"})})}export{m as default};

@@ -122,7 +122,7 @@ export default function Highlight({ categories, products }: HighlightProps) {
                 {categories.map((category, idx) => (
                   <div key={category.id} className="min-w-full">
                     <Link
-                      href={`/category/${category.id}`}
+                      href={`/category/${category.slug}`}
                       className="group relative overflow-hidden rounded-xl aspect-square shadow-md hover:shadow-lg transition-all duration-300 block mx-1"
                     >
                       {/* Background with gradient fallback */}
