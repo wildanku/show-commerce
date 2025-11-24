@@ -34,7 +34,6 @@ class AboutUsController extends Controller
      */
     private function getFallbackAboutUsData()
     {
-    {
         $jsonPath = database_path('factories/sample-about-us.json');
 
         if (file_exists($jsonPath)) {
