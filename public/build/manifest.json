@@ -1,0 +1,238 @@
+{
+  "_GridSection-XLjzDH1o.js": {
+    "file": "assets/GridSection-XLjzDH1o.js",
+    "name": "GridSection",
+    "imports": [
+      "resources/js/app.tsx",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "_Layout-BRZg7wce.js": {
+    "file": "assets/Layout-BRZg7wce.js",
+    "name": "Layout",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_button-CdgQ2I__.js": {
+    "file": "assets/button-CdgQ2I__.js",
+    "name": "button",
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "_card-DJ1PbNuU.js": {
+    "file": "assets/card-DJ1PbNuU.js",
+    "name": "card",
+    "imports": [
+      "resources/js/app.tsx",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CHUtOR_8.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/Pages/AboutUs/Page.tsx": {
+    "file": "assets/Page-DvDThOQN.js",
+    "name": "Page",
+    "src": "resources/js/Pages/AboutUs/Page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js"
+    ]
+  },
+  "resources/js/Pages/Contact/Components/ContactUs.tsx": {
+    "file": "assets/ContactUs-BipZpkGs.js",
+    "name": "ContactUs",
+    "src": "resources/js/Pages/Contact/Components/ContactUs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/Contact/Page.tsx": {
+    "file": "assets/Page-CvOfqgI2.js",
+    "name": "Page",
+    "src": "resources/js/Pages/Contact/Page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "resources/js/Pages/Contact/Components/ContactUs.tsx"
+    ]
+  },
+  "resources/js/Pages/Dashboard.tsx": {
+    "file": "assets/Dashboard-CBtaEvSL.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/Error.tsx": {
+    "file": "assets/Error-CMh8r0g9.js",
+    "name": "Error",
+    "src": "resources/js/Pages/Error.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js"
+    ]
+  },
+  "resources/js/Pages/Home.tsx": {
+    "file": "assets/Home-DL3rk4ZF.js",
+    "name": "Home",
+    "src": "resources/js/Pages/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "_button-CdgQ2I__.js",
+      "_card-DJ1PbNuU.js"
+    ]
+  },
+  "resources/js/Pages/Home/Components/AboutUs.tsx": {
+    "file": "assets/AboutUs-D7CBtcnt.js",
+    "name": "AboutUs",
+    "src": "resources/js/Pages/Home/Components/AboutUs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "resources/js/Pages/Home/Components/ContactUs.tsx",
+      "_GridSection-XLjzDH1o.js",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "resources/js/Pages/Home/Components/ContactUs.tsx": {
+    "file": "assets/ContactUs-DJsB-QvK.js",
+    "name": "ContactUs",
+    "src": "resources/js/Pages/Home/Components/ContactUs.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx"
+    ]
+  },
+  "resources/js/Pages/Home/Components/Hero.tsx": {
+    "file": "assets/Hero-By1DWWGs.js",
+    "name": "Hero",
+    "src": "resources/js/Pages/Home/Components/Hero.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "resources/js/Pages/Home/Components/Hightlight.tsx": {
+    "file": "assets/Hightlight-DrqMfFoo.js",
+    "name": "Hightlight",
+    "src": "resources/js/Pages/Home/Components/Hightlight.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_card-DJ1PbNuU.js",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "resources/js/Pages/Home/Page.tsx": {
+    "file": "assets/Page-CgI1I783.js",
+    "name": "Page",
+    "src": "resources/js/Pages/Home/Page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "resources/js/Pages/Home/Components/Hero.tsx",
+      "resources/js/Pages/Home/Components/Hightlight.tsx",
+      "resources/js/Pages/Home/Components/AboutUs.tsx",
+      "_button-CdgQ2I__.js",
+      "_card-DJ1PbNuU.js",
+      "resources/js/Pages/Home/Components/ContactUs.tsx",
+      "_GridSection-XLjzDH1o.js"
+    ]
+  },
+  "resources/js/Pages/Product/Detail.tsx": {
+    "file": "assets/Detail-BUpAhUn4.js",
+    "name": "Detail",
+    "src": "resources/js/Pages/Product/Detail.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "_button-CdgQ2I__.js",
+      "_card-DJ1PbNuU.js"
+    ]
+  },
+  "resources/js/Pages/Product/Page.tsx": {
+    "file": "assets/Page-BGzcIJ2I.js",
+    "name": "Page",
+    "src": "resources/js/Pages/Product/Page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "_card-DJ1PbNuU.js",
+      "_button-CdgQ2I__.js"
+    ]
+  },
+  "resources/js/Pages/ProductCategory/Page.tsx": {
+    "file": "assets/Page-DzUwnHDL.js",
+    "name": "Page",
+    "src": "resources/js/Pages/ProductCategory/Page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js",
+      "_GridSection-XLjzDH1o.js",
+      "_button-CdgQ2I__.js",
+      "_card-DJ1PbNuU.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.tsx": {
+    "file": "assets/Welcome-BEzJ1ka-.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.tsx",
+      "_Layout-BRZg7wce.js"
+    ]
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-CfqtTs35.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/lang/en.json",
+      "resources/js/Pages/AboutUs/Page.tsx",
+      "resources/js/Pages/Contact/Components/ContactUs.tsx",
+      "resources/js/Pages/Contact/Page.tsx",
+      "resources/js/Pages/Dashboard.tsx",
+      "resources/js/Pages/Error.tsx",
+      "resources/js/Pages/Home.tsx",
+      "resources/js/Pages/Home/Components/AboutUs.tsx",
+      "resources/js/Pages/Home/Components/ContactUs.tsx",
+      "resources/js/Pages/Home/Components/Hero.tsx",
+      "resources/js/Pages/Home/Components/Hightlight.tsx",
+      "resources/js/Pages/Home/Page.tsx",
+      "resources/js/Pages/Product/Detail.tsx",
+      "resources/js/Pages/Product/Page.tsx",
+      "resources/js/Pages/ProductCategory/Page.tsx",
+      "resources/js/Pages/Welcome.tsx"
+    ]
+  },
+  "resources/lang/en.json": {
+    "file": "assets/en-CDgzkcTO.js",
+    "name": "en",
+    "src": "resources/lang/en.json",
+    "isDynamicEntry": true
+  }
+}
