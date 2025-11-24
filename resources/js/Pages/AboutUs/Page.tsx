@@ -28,6 +28,8 @@ interface AboutUs {
   title: string;
   subtitle: string;
   hero_image: string;
+  image?: string;
+  description?: string;
   sections: AboutUsSection[];
 }
 
@@ -36,6 +38,18 @@ interface Props {
 }
 
 export default function AboutUsPage({ aboutUs }: Props) {
+  // Helper function to strip HTML tags
+  const stripHtml = (html: string) => {
+    if (!html) return '';
+    return html.replace(/<[^>]*>/g, '').trim();
+  };
+
+  // Generate meta description from content
+  const metaDescription =
+    (aboutUs.description && stripHtml(aboutUs.description).substring(0, 160)) ||
+    aboutUs.subtitle ||
+    'About Spices IDN - Premium Indonesian Spices and Vanilla Beans Exporter';
+
   useEffect(() => {
     // Load PayPal SDK
     const script = document.createElement('script');
@@ -66,13 +80,81 @@ export default function AboutUsPage({ aboutUs }: Props) {
   }, []);
   return (
     <Layout title={aboutUs.title}>
-      {/* <Head>
-        <title>{aboutUs.title} - ShowCommerce</title>
+      <Head>
+        <title>
+          {aboutUs.title || 'About Us'} - Spices IDN | Premium Indonesian
+          Exporter
+        </title>
+        <meta name="description" content={metaDescription} />
         <meta
-          name="description"
-          content={`Learn more about ${aboutUs.subtitle}`}
+          name="keywords"
+          content="about Spices IDN, Indonesian spices, vanilla beans exporter, spice company, premium Indonesian products"
         />
-      </Head> */}
+
+        {/* Open Graph Tags */}
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={`${aboutUs.title} - Spices IDN`} />
+        <meta property="og:description" content={metaDescription} />
+        <meta
+          property="og:image"
+          content={
+            aboutUs.image ||
+            'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200'
+          }
+        />
+        <meta property="og:url" content={window.location.href} />
+        <meta property="og:site_name" content="Spices IDN" />
+
+        {/* Twitter Card Tags */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={`${aboutUs.title} - Spices IDN`} />
+        <meta name="twitter:description" content={metaDescription} />
+        <meta
+          name="twitter:image"
+          content={
+            aboutUs.image ||
+            'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200'
+          }
+        />
+
+        {/* Additional SEO Tags */}
+        <meta name="robots" content="index, follow" />
+        <meta name="revisit-after" content="7 days" />
+        <meta name="author" content="Spices IDN" />
+
+        {/* Canonical URL */}
+        <link rel="canonical" href={window.location.href.split('?')[0]} />
+
+        {/* Schema.org Markup for Organization */}
+        <script type="application/ld+json">
+          {JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Organization',
+            name: 'Spices IDN',
+            url: 'https://www.spicesidm.com',
+            logo: 'https://www.spicesidm.com/logo.png',
+            description: metaDescription,
+            address: {
+              '@type': 'PostalAddress',
+              streetAddress: 'Trevista Hills Kebayoran D23',
+              addressLocality: 'Kota Depok',
+              addressRegion: 'Jakarta',
+              postalCode: '',
+              addressCountry: 'ID',
+            },
+            contactPoint: {
+              '@type': 'ContactPoint',
+              contactType: 'Sales',
+              telephone: '+62-823-3838-6226',
+              email: 'info@spicesidm.com',
+            },
+            sameAs: [
+              'https://www.facebook.com/spicesidm',
+              'https://www.instagram.com/spicesidm',
+            ],
+          })}
+        </script>
+      </Head>
 
       {/* Hero Section */}
       <section className="relative h-[400px] md:h-[350px] overflow-hidden">

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Section;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
@@ -12,7 +13,16 @@ class AboutUsController extends Controller
      */
     public function index()
     {
-        $aboutUs = $this->getAboutUsData();
+        // Fetch about-us section from database with metadata
+        $aboutUsSection = Section::where('slug', 'about-us')->first();
+        
+        if ($aboutUsSection) {
+            $content = json_decode($aboutUsSection->content, true);
+            $metadata = $aboutUsSection->metadata ?? [];
+            $aboutUs = array_merge($content, $metadata);
+        } else {
+            $aboutUs = $this->getFallbackAboutUsData();
+        }
 
         return Inertia::render('AboutUs/Page', [
             'aboutUs' => $aboutUs,
@@ -20,9 +30,10 @@ class AboutUsController extends Controller
     }
 
     /**
-     * Get about us data from JSON file or fallback
+     * Get fallback about us data
      */
-    private function getAboutUsData()
+    private function getFallbackAboutUsData()
+    {
     {
         $jsonPath = database_path('factories/sample-about-us.json');
 

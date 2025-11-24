@@ -47,10 +47,13 @@ class HomeController extends Controller
                     ] : null,
                 ];
             });
-            
+
         return Inertia::render('Home/Page', [
             'sections' => [
-                'aboutUs' => $aboutUsSection ? json_decode($aboutUsSection->content, true) : null,
+                'aboutUs' => $aboutUsSection ? array_merge(
+                    json_decode($aboutUsSection->content, true),
+                    $aboutUsSection->metadata ?? []
+                ) : null,
                 'visionMission' => $visionMissionSection ? json_decode($visionMissionSection->content, true) : null,
                 'whyChooseUs' => $whyChooseUsSection ? json_decode($whyChooseUsSection->content, true) : null,
             ],
