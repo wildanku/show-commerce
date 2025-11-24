@@ -1,6 +1,5 @@
 import { Head } from '@inertiajs/react';
 import Layout from '@/Components/section/Layout';
-import { useEffect } from 'react';
 
 interface AboutUsSection {
   title: string;
@@ -50,72 +49,44 @@ export default function AboutUsPage({ aboutUs }: Props) {
     aboutUs.subtitle ||
     'About Spices IDN - Premium Indonesian Spices and Vanilla Beans Exporter';
 
-  useEffect(() => {
-    // Load PayPal SDK
-    const script = document.createElement('script');
-    script.src =
-      'https://www.paypal.com/sdk/js?client-id=BAA_YSlU7icWhwM12C9jLTFqdFYA4miBBMEPApguNc2bzXoS8DHOnGdmKCs07HPWjUU8qBaeCf2O7W4SVo&components=hosted-buttons&disable-funding=venmo&currency=USD';
-    script.async = true;
-    script.crossOrigin = 'anonymous';
+  const ogImage =
+    aboutUs.image ||
+    'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200';
+  const pageTitle = aboutUs.title || 'About Us';
+  const pageUrl =
+    typeof window !== 'undefined'
+      ? window.location.href.split('?')[0]
+      : 'https://www.spicesidm.com/about-us';
 
-    script.onload = () => {
-      // Render PayPal button after SDK loads
-      if ((window as any).paypal) {
-        (window as any).paypal
-          .HostedButtons({
-            hostedButtonId: 'D86A3J6G54G7E',
-          })
-          .render('#paypal-container-D86A3J6G54G7E');
-      }
-    };
-
-    document.body.appendChild(script);
-
-    return () => {
-      // Cleanup: remove script on component unmount if needed
-      if (script.parentNode) {
-        script.parentNode.removeChild(script);
-      }
-    };
-  }, []);
   return (
-    <Layout title={aboutUs.title}>
+    <Layout title={pageTitle}>
       <Head>
-        <title>
-          {aboutUs.title || 'About Us'} - Spices IDN | Premium Indonesian
-          Exporter
-        </title>
-        <meta name="description" content={metaDescription} />
+        <meta
+          name="description"
+          content={metaDescription || 'About Spices IDN'}
+        />
         <meta
           name="keywords"
           content="about Spices IDN, Indonesian spices, vanilla beans exporter, spice company, premium Indonesian products"
         />
 
         {/* Open Graph Tags */}
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content={`${aboutUs.title} - Spices IDN`} />
-        <meta property="og:description" content={metaDescription} />
         <meta
-          property="og:image"
-          content={
-            aboutUs.image ||
-            'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200'
-          }
+          property="og:description"
+          content={metaDescription || 'About Spices IDN'}
         />
-        <meta property="og:url" content={window.location.href} />
+        <meta property="og:image" content={ogImage} />
+        <meta property="og:url" content={pageUrl} />
         <meta property="og:site_name" content="Spices IDN" />
 
         {/* Twitter Card Tags */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={`${aboutUs.title} - Spices IDN`} />
-        <meta name="twitter:description" content={metaDescription} />
+        <meta name="twitter:title" content={`${pageTitle} - Spices IDN`} />
         <meta
-          name="twitter:image"
-          content={
-            aboutUs.image ||
-            'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200'
-          }
+          name="twitter:description"
+          content={metaDescription || 'About Spices IDN'}
         />
+        <meta name="twitter:image" content={ogImage} />
 
         {/* Additional SEO Tags */}
         <meta name="robots" content="index, follow" />
@@ -123,37 +94,9 @@ export default function AboutUsPage({ aboutUs }: Props) {
         <meta name="author" content="Spices IDN" />
 
         {/* Canonical URL */}
-        <link rel="canonical" href={window.location.href.split('?')[0]} />
+        <link rel="canonical" href={pageUrl} />
 
         {/* Schema.org Markup for Organization */}
-        <script type="application/ld+json">
-          {JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'Organization',
-            name: 'Spices IDN',
-            url: 'https://www.spicesidm.com',
-            logo: 'https://www.spicesidm.com/logo.png',
-            description: metaDescription,
-            address: {
-              '@type': 'PostalAddress',
-              streetAddress: 'Trevista Hills Kebayoran D23',
-              addressLocality: 'Kota Depok',
-              addressRegion: 'Jakarta',
-              postalCode: '',
-              addressCountry: 'ID',
-            },
-            contactPoint: {
-              '@type': 'ContactPoint',
-              contactType: 'Sales',
-              telephone: '+62-823-3838-6226',
-              email: 'info@spicesidm.com',
-            },
-            sameAs: [
-              'https://www.facebook.com/spicesidm',
-              'https://www.instagram.com/spicesidm',
-            ],
-          })}
-        </script>
       </Head>
 
       {/* Hero Section */}
@@ -162,7 +105,7 @@ export default function AboutUsPage({ aboutUs }: Props) {
         <div className="absolute inset-0 bg-black/30 backdrop-blur-sm z-20" />
         {/* Background Image */}
         <img
-          src={aboutUs.hero_image}
+          src={aboutUs.image}
           alt={aboutUs.title}
           className="absolute inset-0 w-full h-full object-cover"
           onError={(e) => {
