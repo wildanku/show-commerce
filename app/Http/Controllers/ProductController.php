@@ -78,7 +78,7 @@ class ProductController extends Controller
             'description' => $product->description,
             'category' => $product->category ? $product->category->name : 'Uncategorized',
             'categorySlug' => $product->category ? $product->category->slug : null,
-            'image' => $product->metadata['image'] ?? null,
+            'image' => $product->preview_image ?? null,
             'images' => $product->metadata['images'] ?? [],
             'specifications' => $this->parseSpecifications($product->metadata['specifications'] ?? []),
             'features' => $product->metadata['features'] ?? [],
